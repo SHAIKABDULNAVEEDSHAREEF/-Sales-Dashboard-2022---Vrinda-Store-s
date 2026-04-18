@@ -93,8 +93,9 @@ If you would like to connect or discuss this project:
 - 🔗 LinkedIn: (https://www.linkedin.com/in/shaik-naveed-514895268 )
 ---
 Screenshots / Demos
-Show what the dashboard looks like. - 
-Example
+Show what the dashboard looks like. - [Alt text](https://github.com/SHAIKABDULNAVEEDSHAREEF/-Sales-Dashboard-2022---Vrinda-Store-s/blob/main/Sales%20Dashboard%202022%20-%20Vrinda%20Stores.png)
+
+Example: [Dashboard preview](https://github.com/SHAIKABDULNAVEEDSHAREEF/-Sales-Dashboard-2022---Vrinda-Store-s/blob/main/Sales%20Dashboard%202022%20-%20Vrinda%20Stores.png)
 ---
 
 ⭐ Support
